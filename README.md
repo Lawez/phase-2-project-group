@@ -1,6 +1,6 @@
 # Phase 2 Project Description
 
-![house](https://raw.githubusercontent.com/Lawez/phase-2-project-group/house.jpg)
+![house](https://github.com/Lawez/phase-2-project-group/blob/main/house.jpg)
 
 
 ## Project Overview
