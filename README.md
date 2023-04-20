@@ -95,7 +95,7 @@ The agency should consider the sqft_living variable when selling since it has a 
 ├── .canvas                                                <- canvas extention 
 ├── .gitignore                                             <- gitignore 
 ├── CONTRIBUTING                                           <- Conribution logs
-├── LISENCE                                                <- LICENCE of the project
+├── LISENCE.md                                               <- LICENCE of the project
 ├── README.md                                              <- The top-level README for reviewers of this project                  
 └── student.ipynb                                          <- Narrative documentation of analysis in Jupyter notebook
 ```
