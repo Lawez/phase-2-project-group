@@ -89,13 +89,13 @@ The agency should consider the sqft_living variable when selling since it has a 
 
 **Repository Structure:**
 ```
-├── Data Preprocessing                                        <- Team Member's indivual notebooks 
-├── Data                                                      <- Both sourced externally and generated from code 
-├── Images                                                    <- Both sourced externally and generated from code 
-├── Map                                                       <- JSON and Map files
-├── .gitignore                                                <- gitignore 
-├── King-County-House-Price-Predictor.ipynb                   <- Narrative documentation of analysis in Jupyter notebook
-├── README.md                                                 <- The top-level README for reviewers of this project
-├── calculator.html                                           <- Application of house price predictor model
-└── presentation.pdf                                          <- PDF version of project presentation
+├── data                                                   <- Data folder location of our study
+├── images                                                 <- images folder of our notebook 
+├── presentation.pdf                                       <- PDF version of project presentation 
+├── .canvas                                                <- canvas extention 
+├── .gitignore                                             <- gitignore 
+├── CONTRIBUTING                                           <- Conribution logs
+├── LISENCE                                                <- LICENCE of the project
+├── README.md                                              <- The top-level README for reviewers of this project                  
+└── student.ipynb                                          <- Narrative documentation of analysis in Jupyter notebook
 ```
