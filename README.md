@@ -52,9 +52,7 @@ After exploring and preprocessing the data;
 18260, low average 
 147700, good 
 430000 , very good 
-789100, luxury 1519000.
-
-The model explains 63% of the variance in price which has attained our target of a model explaining 60% of variance.
+789100, luxury 1519000.The model explains 63% of the variance in price which has attained our target of a model explaining 60% of variance.
 
 
 # Conclusion
