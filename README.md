@@ -29,6 +29,30 @@ The following approaches were used;
 
 visualizations between different features were then plotted to understand how different features affect one another
 
+![grade](https://github.com/Lawez/phase-2-project-group/blob/main/images/grade.png)
+
+ *The distribution of the "grade" feature in the King County House Sales dataset.The "grade" feature is a categorical variable that rates the overall quality of a house on a scale from 1 to 13, with 1 being the lowest quality and 13 being the highest quality.The majority of houses in the dataset have a grade of 7 or 8, which is considered to be of average quality.There are relatively few houses with grades below 5 or above 10, indicating that most houses in the dataset fall within a relatively narrow range of quality levels.
+The distribution of grades is roughly symmetric, with a peak at grade 7 and a long tail on both sides.The distribution of grades may be useful in predicting house prices, as higher-grade houses are likely to be more expensive than lower-grade houses.* 
+
+![distribution%20of%20sqrt](https://github.com/Lawez/phase-2-project-group/blob/main/images/distribution%20of%20sqrt.png)
+
+*This histogram shows the distribution of sqft_living which is normally distributed, with a mean around 12.5 and a standard deviation around 0.5*
+
+![price](https://github.com/Lawez/phase-2-project-group/blob/main/images/price.png)
+
+*This histogram shows the distribution of house prices in the King County House Sales dataset, the majority of house prices in the dataset fall in the range of $0 to $1 million, with a peak around $500,000.There are a small number of houses with very high prices (above $3 million), which are likely to be outliers or luxury properties.The distribution of house prices is right-skewed, which means that there are more houses with lower prices than with higher prices.*
+
+![price%20vs%20sqft](https://github.com/Lawez/phase-2-project-group/blob/main/images/price%20vs%20sqft_liv.png)
+
+ *Scatter plot of the living area (in square feet) versus the price of the houses in the King County House Sales dataset. Each point in the scatter plot represents a different house in the dataset,there is a positive linear relationship between the living area and the price of the houses. This suggests that larger houses tend to sell for higher prices. However, there is also a lot of variability in the data, with some houses having a high price despite a relatively small living area, and vice versa. This suggests that there are other factors beyond just the living area that are influencing the price of the houses.*
+
+
+![price%20vs%20bedrooms](https://github.com/Lawez/phase-2-project-group/blob/main/images/price%20vs%20bedrooms.png)
+
+*A scatter plot of the number of bedrooms versus the price of the houses in the King County House Sales dataset. It appears that there is a positive linear relationship between the number of bedrooms and the price of the houses, although the relationship is not as strong as the relationship between living area and house prices. The regression line has a positive slope, which means that as the number of bedrooms increases, the price of the house tends to increase as well, although there is still quite a bit of variability in the data.*
+
+
+
 
 ### Methods
 
