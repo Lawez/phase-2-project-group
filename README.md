@@ -29,11 +29,6 @@ The following approaches were used;
 
 visualizations between different features were then plotted to understand how different features affect one another
 
-![grade](https://github.com/Lawez/phase-2-project-group/blob/main/images/grade.png)
-
- *The distribution of the "grade" feature in the King County House Sales dataset.The "grade" feature is a categorical variable that rates the overall quality of a house on a scale from 1 to 13, with 1 being the lowest quality and 13 being the highest quality.The majority of houses in the dataset have a grade of 7 or 8, which is considered to be of average quality.There are relatively few houses with grades below 5 or above 10, indicating that most houses in the dataset fall within a relatively narrow range of quality levels.
-The distribution of grades is roughly symmetric, with a peak at grade 7 and a long tail on both sides.The distribution of grades may be useful in predicting house prices, as higher-grade houses are likely to be more expensive than lower-grade houses.* 
-
 ![distribution%20of%20sqrt](https://github.com/Lawez/phase-2-project-group/blob/main/images/distribution%20of%20sqrt.png)
 
 *This histogram shows the distribution of sqft_living which is normally distributed, with a mean around 12.5 and a standard deviation around 0.5*
